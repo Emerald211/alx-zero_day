@@ -1,1 +1,1 @@
-0x03-git readme
+Corrected the commit message
